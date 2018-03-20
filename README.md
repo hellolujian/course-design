@@ -4,7 +4,8 @@
   - npm install
   - npm run dev
 ### 4. 安装好数据库，修改springboot项目里的yml文件（配置文件）修改数据库配置
-### 5. 运行springboot项目
-### 6. 登录操作
+### 5. IDEA导入springboot项目，并配置好maven
+### 6. 运行springboot项目
+### 7. 登录操作
   - 后台管理系统账号密码admin/admin
   - 用户登录账号密码请查看数据库
